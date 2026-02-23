@@ -11,7 +11,7 @@ body {
 }
 
 img {
-  width: 60%;
+  width: 50%;
 }
 
 figure {
@@ -38,10 +38,9 @@ nav {
   background-color: beige;
 }
 
-/* nav a:hover {
-  background-color: rgb(94, 93, 93);
-  color: white;
-} */
+nav a:hover {
+  text-decoration: underline; 
+}
 
 ::-webkit-scrollbar {
   display: none;
